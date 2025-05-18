@@ -1,0 +1,52 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+*.app
+*.prl
+
+# Arquivos gerados por Qt
+*.moc
+moc_*
+qrc_*
+ui_*
+Makefile*
+*.qrc.dep
+*.qrc.cpp
+*.qmlc
+*.jsc
+
+# Diretórios comuns de build
+build/
+bin/
+debug/
+release/
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Configurações de IDEs
+*.pro.user
+*.user
+*.autosave
+*.pro.user.*
+*.creator.*
+*.kdev4
+.cproject
+.project
+.settings/
+.idea/
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
